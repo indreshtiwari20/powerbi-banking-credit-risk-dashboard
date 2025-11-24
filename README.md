@@ -7,9 +7,24 @@ Dashboard project analyzing credit risk KPIs in the banking sector using Power B
 ## Overview
 A data analytics dashboard providing insights into loan origination, approvals, and risk analysis for a banking institution.
 
+
+banking-credit-risk-dashboard/
+│
+├── README.md                   # (project summary/guide)
+├── Dashboard_Bank.pbix         # (Power BI dashboard)
+├── Problem Bank Project.pdf     # (project description or guidelines)
+├── financial_loan.xlsx         # (data file)
+├── images/
+│   ├── dashboard_main.png      # (screenshots)
+
+
+
+
+
 ## Key KPIs
 - NPA Ratio
-- Loan Approval Rate
+- Good Loan/Bad Loan Approval Rate
+- How many charged off loans applications.
 - Customer Risk Segmentation
 
 ## Tools
