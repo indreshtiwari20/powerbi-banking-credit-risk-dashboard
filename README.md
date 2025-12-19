@@ -157,7 +157,7 @@ This project demonstrates expertise in:
 
 **Indresh Tiwari**
 - LinkedIn: [linkedin.com/in/indreshtiwari](https://www.linkedin.com/in/indreshtiwari/)
-- Email: tiindresh@gmail.com
+- Email: indresh.tiwari.job@gmail.com
 - Portfolio: [GitHub Profile](https://github.com/indreshtiwari20)
 
 ---
